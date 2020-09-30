@@ -1,20 +1,23 @@
-## Urban Sound Classification over a Multi-labeled Database
+## Urban Sound Classification with a Multi-labeled Database
 
-### Notebooks
+### Notebook
 
-* notebook.ipynb
-
-This notebook is a fork of of the [notebook](https://github.com/aqibsaeed/Urban-Sound-Classification) by Aaqib Saeed
+This notebook is a modified fork of of the [notebook](https://github.com/aqibsaeed/Urban-Sound-Classification) by Aaqib Saeed.
 
 ### Tools
 
 Python 3.5 (or above) is used during development and following libraries are required to run the code provided in the notebook:
 * numpy
-* panas
+* pandas
+* matplotlib
 * librosa
+* pydub
 * sklearn
 * tensorflow
-* pydub
+
+They can be installed with requirements.txt using
+
+`$ pip install -r requirements.txt`
 
 ### Dataset
 
