@@ -2,7 +2,7 @@
 
 ### Notebook
 
-This notebook is a modified fork of of the [notebook](https://github.com/aqibsaeed/Urban-Sound-Classification) by Aaqib Saeed.
+This notebook is a modified fork of the [notebook](https://github.com/aqibsaeed/Urban-Sound-Classification) by Aaqib Saeed and builds upon classification techniques within a new domain.
 
 ### Tools
 
