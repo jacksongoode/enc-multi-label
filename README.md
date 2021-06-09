@@ -1,4 +1,4 @@
-## Urban Sound Classification with a Multi-labeled Database
+## Urban Sound Classification within a Multi-labeled Database
 
 ### Notebook
 
